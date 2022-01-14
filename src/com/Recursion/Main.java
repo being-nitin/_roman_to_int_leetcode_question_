@@ -31,4 +31,7 @@ public class Main {
 // in this we have used map, which will store string as key and corresponding Integer as value
 /*
   Then we have started the iteration from end and compared the Ith element with I=1th element:
+  if the Ith element is less than I+1th element then the result will get subtracted by the
+  corresponding value of the key, and if the Ith element is less than I+1th element then the
+  result will added by the corresponding value of the key.
  */
