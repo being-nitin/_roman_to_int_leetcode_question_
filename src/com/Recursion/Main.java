@@ -29,3 +29,6 @@ public class Main {
     }
 }
 // in this we have used map, which will store string as key and corresponding Integer as value
+/*
+  Then we have started the iteration from end and compared the Ith element with I=1th element:
+ */
