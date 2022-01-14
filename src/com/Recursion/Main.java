@@ -28,3 +28,4 @@ public class Main {
         return result;
     }
 }
+// in this we have used map, which will store string as key and corresponding Integer as value
